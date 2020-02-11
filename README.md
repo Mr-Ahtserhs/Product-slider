@@ -1,3 +1,3 @@
 # Product-slider
 
-![](images/slider.jpg)
+![](images/slide.gif)
